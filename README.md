@@ -2,6 +2,6 @@
 Drop down Menu Coding By Abdallah Emad
 
 ## Project Notes
-- There is a CSS root in which you can control the colors and font size and you can add more
-- The scroll Reveal problem has been solved
-- Launching the first version
+- There are more modifications in the code that will be modified, such as: (responsiveness on mobile devices, tablets, etc..)
+- The Dome version has been launched
+- The user photo and notification icon were not added
